@@ -29,6 +29,11 @@
   width: 50%
 }
 
+.contact {
+  font-weight: bold;
+  font-style: italic;
+}
+
 p, li {
   font-family: "Quattrocentro";
   font-weight: normal;
